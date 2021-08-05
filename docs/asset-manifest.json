@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./Post/static/css/main.5739ad41.chunk.css",
-    "main.js": "./Post/static/js/main.21f714a2.chunk.js",
-    "main.js.map": "./Post/static/js/main.21f714a2.chunk.js.map",
-    "runtime-main.js": "./Post/static/js/runtime-main.c3e03295.js",
-    "runtime-main.js.map": "./Post/static/js/runtime-main.c3e03295.js.map",
-    "static/js/2.5c408b7c.chunk.js": "./Post/static/js/2.5c408b7c.chunk.js",
-    "static/js/2.5c408b7c.chunk.js.map": "./Post/static/js/2.5c408b7c.chunk.js.map",
-    "index.html": "./Post/index.html",
-    "static/css/main.5739ad41.chunk.css.map": "./Post/static/css/main.5739ad41.chunk.css.map",
-    "static/js/2.5c408b7c.chunk.js.LICENSE.txt": "./Post/static/js/2.5c408b7c.chunk.js.LICENSE.txt"
+    "main.css": "https://berkeurun.github.io/Post/static/css/main.5739ad41.chunk.css",
+    "main.js": "https://berkeurun.github.io/Post/static/js/main.21f714a2.chunk.js",
+    "main.js.map": "https://berkeurun.github.io/Post/static/js/main.21f714a2.chunk.js.map",
+    "runtime-main.js": "https://berkeurun.github.io/Post/static/js/runtime-main.57e5ca67.js",
+    "runtime-main.js.map": "https://berkeurun.github.io/Post/static/js/runtime-main.57e5ca67.js.map",
+    "static/js/2.5c408b7c.chunk.js": "https://berkeurun.github.io/Post/static/js/2.5c408b7c.chunk.js",
+    "static/js/2.5c408b7c.chunk.js.map": "https://berkeurun.github.io/Post/static/js/2.5c408b7c.chunk.js.map",
+    "index.html": "https://berkeurun.github.io/Post/index.html",
+    "static/css/main.5739ad41.chunk.css.map": "https://berkeurun.github.io/Post/static/css/main.5739ad41.chunk.css.map",
+    "static/js/2.5c408b7c.chunk.js.LICENSE.txt": "https://berkeurun.github.io/Post/static/js/2.5c408b7c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3e03295.js",
+    "static/js/runtime-main.57e5ca67.js",
     "static/js/2.5c408b7c.chunk.js",
     "static/css/main.5739ad41.chunk.css",
     "static/js/main.21f714a2.chunk.js"
